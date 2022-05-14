@@ -3,7 +3,7 @@
 Nylon is new scheduler of LSM Key-Value store for hetergeneous storage system.  
 We implemented it based on RocksDB (version: 6.20.3).  
 As a microbenchmark, 'db_bench' is used.  
-Detailed design, implementation and experiment result is shown in report().  
+Detailed design, implementation and experiment result is shown in report(https://github.com/heejin5178/Nylon/blob/main/Nylon_report.pdf).  
   
   
 If you have questions, please contact via heejin5178@gmail.com.
